@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: rgb(87, 179, 179);
+    margin: 40px auto 0;
+    max-width: 700px;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: justify;
+}
+
+img{
+    max-width: 100%;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+mark{
+    padding: 5px 10px;
+    border-radius: 4px;
+    background-color: greenyellow;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 18px;
+    color: purple;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 20px;
+}
